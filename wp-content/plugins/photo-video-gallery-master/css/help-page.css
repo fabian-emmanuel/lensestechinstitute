@@ -1,0 +1,89 @@
+/*  Header Top Bar CSS */
+.network-header{
+	background-color: #00b5e2;
+    color: white;
+    border-radius: 2px 2px 0px 0px;
+	margin: 14px 22px;
+}
+
+.network-header .section{
+	margin-bottom: 0px;
+}
+
+.network-header img{
+	margin-top: 10px;
+	padding:0px;
+	float: left;
+	margin-right:10px;
+}
+
+.network-header h4{
+	margin:0px;
+	padding:8px 14px;
+}
+
+/****** Help Page Css ************/
+.help-page-col{
+	float:left;
+	margin-right: 2%;
+	margin-left: 2%; 
+	width: 46%;
+}
+
+.help-page-widget{
+	background-color: #FFF; 
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+.help-page-widget img{
+	/*background-color: #9AFFAF;*/
+	-webkit-box-shadow: 2px 2px 5px 0px rgba(117,189,189,1);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(117,189,189,1);
+    box-shadow: 2px 2px 5px 0px rgba(117,189,189,1);
+}
+
+.help-page-col-last{margin-right: 0;}
+a.blog_read{font-size: 12px;margin-left: 12px;}
+.help-page-widget h2{font-weight: 600;font-size: 23px;}
+.help-page-widget h2 span{color:#00b5e2}
+.help-page-widget p{font-size: 16px;color: #777;}
+
+.changelog h3{color:#539030;}
+
+.changelog .changelog-main-list li.main-item{
+	font-size: 21px; 
+	color: #0073AA; 
+	margin-bottom: 0px;
+	display: inline-block;
+}
+
+.changelog .changelog-main-list li.main-item span{
+	font-size: 13px;
+	color: #49E21F;
+	font-style: italic;
+}
+
+.changelog .changelog-sub-list{
+	margin-top: 10px; 
+	margin-left: 20px;
+	list-style: square;
+	line-height: 1.5;
+}
+
+.changelog .changelog-sub-list li{
+	font-size: 16px; 
+	color: #777;
+}
+
+.smart-forms .frm-row .colm {
+    min-height: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+}
+
+p#imp_msg, div#implog {
+    display: inline;
+    margin-left: 10px;
+}

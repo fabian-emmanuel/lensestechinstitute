@@ -1,0 +1,1315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ultimate-gallery-master\n"
+"POT-Creation-Date: 2019-06-04 13:18+0530\n"
+"PO-Revision-Date: 2019-06-04 13:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_x;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: free-banner.php:8
+msgid "Ultimate Gallery Master Pro"
+msgstr ""
+
+#: free-banner.php:10
+msgid "GO PRO"
+msgstr ""
+
+#: free-banner.php:12
+msgid "Close for now"
+msgstr ""
+
+#: free-banner.php:33
+msgid "Demo"
+msgstr ""
+
+#: free-banner.php:38
+msgid "Review"
+msgstr ""
+
+#: free-banner.php:43
+msgid "Help"
+msgstr ""
+
+#: free-banner.php:48
+msgid "Contact Us"
+msgstr ""
+
+#: free-banner.php:53
+msgid "Forum"
+msgstr ""
+
+#: free-banner.php:66
+msgid "Click \"GO PRO\" to activate all additional customization options."
+msgstr ""
+
+#: general-settings.php:47
+msgid ""
+"These features are available in the Professional version of the plugin only."
+msgstr ""
+
+#: general-settings.php:49
+msgid "Enable"
+msgstr ""
+
+#: general-settings.php:52
+msgid "General Options"
+msgstr ""
+
+#: general-settings.php:53
+msgid "Reset All"
+msgstr ""
+
+#: general-settings.php:54
+msgid "Save"
+msgstr ""
+
+#: general-settings.php:61
+msgid "Lightbox Settings"
+msgstr ""
+
+#: general-settings.php:66
+msgid "Other Settings"
+msgstr ""
+
+#: general-settings.php:76
+msgid "Lightbox Styles"
+msgstr ""
+
+#: general-settings.php:80
+msgid "Lightbox Style"
+msgstr ""
+
+#: general-settings.php:84
+msgid "Choose the style of your lightbox"
+msgstr ""
+
+#: general-settings.php:89 ultimate-gallery-master-lite-settings.php:160
+msgid "Classic"
+msgstr ""
+
+#: general-settings.php:90
+msgid "Modern"
+msgstr ""
+
+#: general-settings.php:94
+msgid "Lightbox Offset Margin"
+msgstr ""
+
+#: general-settings.php:98
+msgid "Set the margin from top and bottom for the lightbox in pixels."
+msgstr ""
+
+#: general-settings.php:109 general-settings.php:383
+msgid "Background Color"
+msgstr ""
+
+#: general-settings.php:113
+msgid "Choose the lightbox main background color"
+msgstr ""
+
+#: general-settings.php:120 general-settings.php:394
+msgid "Background Opacity"
+msgstr ""
+
+#: general-settings.php:124
+msgid "Set the lightbox main background opacity."
+msgstr ""
+
+#: general-settings.php:132
+msgid "Border Color"
+msgstr ""
+
+#: general-settings.php:136
+msgid "Choose the lightbox item border color"
+msgstr ""
+
+#: general-settings.php:143
+msgid "Lightbox Border Size"
+msgstr ""
+
+#: general-settings.php:147
+msgid "Set the lightbox item border size in px"
+msgstr ""
+
+#: general-settings.php:155
+msgid "Lightbox Border Radius"
+msgstr ""
+
+#: general-settings.php:159
+msgid "Set the lightbox item border radius in px"
+msgstr ""
+
+#: general-settings.php:170
+msgid "Slideshow"
+msgstr ""
+
+#: general-settings.php:173
+msgid "Slideshow Auto Start"
+msgstr ""
+
+#: general-settings.php:177
+msgid "Enable or disable the lightbox slideshow autoplay"
+msgstr ""
+
+#: general-settings.php:185
+msgid "Video Auto Play"
+msgstr ""
+
+#: general-settings.php:189
+msgid "Enable or disable video autoplay"
+msgstr ""
+
+#: general-settings.php:197
+msgid "Video Loop"
+msgstr ""
+
+#: general-settings.php:201
+msgid "Set the video play in loop (doesn't apply to youtube or vimeo)."
+msgstr ""
+
+#: general-settings.php:209
+msgid "Audio Auto Play"
+msgstr ""
+
+#: general-settings.php:213
+msgid "Enable or disable audio autoplay"
+msgstr ""
+
+#: general-settings.php:221
+msgid "Audio Loop"
+msgstr ""
+
+#: general-settings.php:225
+msgid "Set the audio play in loop or not"
+msgstr ""
+
+#: general-settings.php:233
+msgid "Slideshow Interval"
+msgstr ""
+
+#: general-settings.php:237
+msgid "Set the slideshow duration in seconds."
+msgstr ""
+
+#: general-settings.php:242
+msgid "In seconds"
+msgstr ""
+
+#: general-settings.php:248
+msgid "Advanced Options"
+msgstr ""
+
+#: general-settings.php:251
+msgid "Buttons Alignment"
+msgstr ""
+
+#: general-settings.php:255
+msgid ""
+"Set to 'In' the buttons will be positioned near the image and set to 'Out' "
+"the buttons will be positioned at the right or left side of the screen"
+msgstr ""
+
+#: general-settings.php:260
+msgid "In"
+msgstr ""
+
+#: general-settings.php:261
+msgid "Out"
+msgstr ""
+
+#: general-settings.php:265
+msgid "Keyboard navigation"
+msgstr ""
+
+#: general-settings.php:269
+msgid ""
+"Enable or disable the keyboard left and right arrows to navigate between "
+"lightbox items"
+msgstr ""
+
+#: general-settings.php:277
+msgid "Show Arrows"
+msgstr ""
+
+#: general-settings.php:281
+msgid "Hide or show the next and prev buttons"
+msgstr ""
+
+#: general-settings.php:289
+msgid "Show Arrows in Mobile"
+msgstr ""
+
+#: general-settings.php:293
+msgid "Hide or show the next and prev buttons on mobile"
+msgstr ""
+
+#: general-settings.php:301
+msgid "Show Close Button"
+msgstr ""
+
+#: general-settings.php:305
+msgid "Hide or show the close button"
+msgstr ""
+
+#: general-settings.php:313 ultimate-gallery-master-lite-settings.php:521
+msgid "Show Zoom Button"
+msgstr ""
+
+#: general-settings.php:317
+msgid "Hide or show the image zoom in and out button"
+msgstr ""
+
+#: general-settings.php:325
+msgid "Show Slideshow Button"
+msgstr ""
+
+#: general-settings.php:329
+msgid "Hide or show the slideshow button"
+msgstr ""
+
+#: general-settings.php:337 ultimate-gallery-master-lite-settings.php:537
+msgid "Show Description Button"
+msgstr ""
+
+#: general-settings.php:341
+msgid "Hide or show the description button"
+msgstr ""
+
+#: general-settings.php:351
+msgid "Lightbox Description Window"
+msgstr ""
+
+#: general-settings.php:355
+msgid "Animation Type"
+msgstr ""
+
+#: general-settings.php:359
+msgid "Set the animation type of the description window when on show / hide"
+msgstr ""
+
+#: general-settings.php:364 general-settings.php:633
+msgid "Opacity"
+msgstr ""
+
+#: general-settings.php:365
+msgid "Motion"
+msgstr ""
+
+#: general-settings.php:369
+msgid "Position"
+msgstr ""
+
+#: general-settings.php:373
+msgid "Set the description window position inside the lightbox item."
+msgstr ""
+
+#: general-settings.php:378 general-settings.php:656 general-settings.php:673
+#: general-settings.php:690
+msgid "Top"
+msgstr ""
+
+#: general-settings.php:379 general-settings.php:659 general-settings.php:676
+#: general-settings.php:696
+msgid "Bottom"
+msgstr ""
+
+#: general-settings.php:387
+msgid "Set the background color of the description window"
+msgstr ""
+
+#: general-settings.php:398
+msgid "Set the description window background opacity."
+msgstr ""
+
+#: general-settings.php:405
+msgid "Description By Default"
+msgstr ""
+
+#: general-settings.php:409
+msgid "Shows or not the description window by default"
+msgstr ""
+
+#: general-settings.php:419
+msgid "Button Styles"
+msgstr ""
+
+#: general-settings.php:422
+msgid "Buttons Hide Delay"
+msgstr ""
+
+#: general-settings.php:426
+msgid "Set the delay in seconds until the buttons will hide."
+msgstr ""
+
+#: general-settings.php:433
+msgid "Space Between Buttons"
+msgstr ""
+
+#: general-settings.php:437
+msgid "Set the space between buttons in px."
+msgstr ""
+
+#: general-settings.php:445
+msgid "Buttons OffsetIn"
+msgstr ""
+
+#: general-settings.php:449
+msgid "Set the space between the buttons and the main lightbox item.</p>"
+msgstr ""
+
+#: general-settings.php:457
+msgid "Buttons OffsetOut"
+msgstr ""
+
+#: general-settings.php:461
+msgid "Set the space between the buttons and window left or right side."
+msgstr ""
+
+#: general-settings.php:471 general-settings.php:474
+msgid "Social Share Buttons"
+msgstr ""
+
+#: general-settings.php:478
+msgid "Set the width of popup"
+msgstr ""
+
+#: general-settings.php:486
+msgid "Social Share Buttons List"
+msgstr ""
+
+#: general-settings.php:490
+msgid "Hide or show the social share button"
+msgstr ""
+
+#: general-settings.php:498
+msgid "Facebook"
+msgstr ""
+
+#: general-settings.php:503
+msgid "Twitter"
+msgstr ""
+
+#: general-settings.php:508
+msgid "Google Plus"
+msgstr ""
+
+#: general-settings.php:513
+msgid "Pinterest"
+msgstr ""
+
+#: general-settings.php:520
+msgid "Linkedin"
+msgstr ""
+
+#: general-settings.php:525
+msgid "Gmail"
+msgstr ""
+
+#: general-settings.php:546 ultimate-gallery-master-lite-settings.php:422
+msgid "Menu Settings"
+msgstr ""
+
+#: general-settings.php:549
+msgid "Combobox Selector Label"
+msgstr ""
+
+#: general-settings.php:552
+msgid "If the menu is combobox set the selector label"
+msgstr ""
+
+#: general-settings.php:561
+msgid "Search Label"
+msgstr ""
+
+#: general-settings.php:564
+msgid "Set the search box label"
+msgstr ""
+
+#: general-settings.php:573
+msgid "Search Not Found Label"
+msgstr ""
+
+#: general-settings.php:576
+msgid "Set the text display when search item not found"
+msgstr ""
+
+#: general-settings.php:585
+msgid "Menu Max Width"
+msgstr ""
+
+#: general-settings.php:588
+msgid "Set maximum menu width."
+msgstr ""
+
+#: general-settings.php:597
+msgid "Menu Offset Top"
+msgstr ""
+
+#: general-settings.php:600
+msgid "Set margin top for the menu buttons"
+msgstr ""
+
+#: general-settings.php:609
+msgid "Menu Offset Bottom"
+msgstr ""
+
+#: general-settings.php:612
+msgid "Set margin bottom for the menu buttons"
+msgstr ""
+
+#: general-settings.php:621
+msgid "Thumbnail Effect Settings"
+msgstr ""
+
+#: general-settings.php:624
+msgid "Text Animation Type"
+msgstr ""
+
+#: general-settings.php:627
+msgid "Text animation type for Animtext effect"
+msgstr ""
+
+#: general-settings.php:636
+msgid "Scale"
+msgstr ""
+
+#: general-settings.php:639
+msgid "Scalerandom"
+msgstr ""
+
+#: general-settings.php:642
+msgid "Largescale"
+msgstr ""
+
+#: general-settings.php:647
+msgid "Media Effect Text Align"
+msgstr ""
+
+#: general-settings.php:650 general-settings.php:667
+msgid "Text vertical align"
+msgstr ""
+
+#: general-settings.php:664
+msgid "Media 2 Effect Text Align"
+msgstr ""
+
+#: general-settings.php:681
+msgid "Image Transition Direction"
+msgstr ""
+
+#: general-settings.php:684
+msgid "This option will work with curtain animation type"
+msgstr ""
+
+#: general-settings.php:693 ultimate-gallery-master-lite-settings.php:491
+msgid "Right"
+msgstr ""
+
+#: general-settings.php:699 ultimate-gallery-master-lite-settings.php:487
+msgid "Left"
+msgstr ""
+
+#: general-settings.php:705
+msgid "Mouse Settings"
+msgstr ""
+
+#: general-settings.php:707
+msgid "Mouse Right Click"
+msgstr ""
+
+#: general-settings.php:710
+msgid "Set action of mouse right click over gallery content"
+msgstr ""
+
+#: general-settings.php:716
+msgid "Default"
+msgstr ""
+
+#: general-settings.php:719
+msgid "Disabled"
+msgstr ""
+
+#: general-settings.php:722
+msgid "Developer"
+msgstr ""
+
+#: general-settings.php:728
+msgid "Infinite Grid Settings"
+msgstr ""
+
+#: general-settings.php:730
+msgid "Enable Visited Thumbnails"
+msgstr ""
+
+#: general-settings.php:733
+msgid "This way user can see which thumbnails content was viewed"
+msgstr ""
+
+#: general-settings.php:741
+msgid "Add Zoom Support"
+msgstr ""
+
+#: general-settings.php:744
+msgid ""
+"Enable or disable gallery zoom on desktop machines and pinch & zoom on "
+"mobile devices"
+msgstr ""
+
+#: general-settings.php:752
+msgid "Drag & Swipe Support"
+msgstr ""
+
+#: general-settings.php:755
+msgid "Enable or disable drag and swipe for gallery"
+msgstr ""
+
+#: js/FWDUGP.js:9005
+msgid "BackOut"
+msgstr ""
+
+#: js/FWDUGP.js:9007
+msgid "BackIn"
+msgstr ""
+
+#: js/FWDUGP.js:9009
+msgid "BackInOut"
+msgstr ""
+
+#: recommendations.php:51
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: recommendations.php:69
+msgid "Get More Free Wordpress Plguins From WebHunt Infotech"
+msgstr ""
+
+#: recommendations.php:120
+msgid "More Details"
+msgstr ""
+
+#: recommendations.php:128
+msgid "Install Now"
+msgstr ""
+
+#: recommendations.php:134
+msgid "Update Now"
+msgstr ""
+
+#: recommendations.php:139
+msgid "Installed"
+msgstr ""
+
+#: recommendations.php:182 recommendations.php:196 recommendations.php:210
+#: recommendations.php:224 recommendations.php:238 recommendations.php:252
+msgid "Premium Detail Page"
+msgstr ""
+
+#: recommendations.php:187 recommendations.php:201 recommendations.php:215
+#: recommendations.php:229 recommendations.php:243
+msgid "Demo Website"
+msgstr ""
+
+#: recommendations.php:257
+msgid "Buy Now"
+msgstr ""
+
+#: recommendations.php:279
+msgid "Last Updated:"
+msgstr ""
+
+#: recommendations.php:290
+msgid "<strong>Untested</strong> with your version of WordPress"
+msgstr ""
+
+#: recommendations.php:292
+msgid "Incompatible with your version of WordPress"
+msgstr ""
+
+#: recommendations.php:294
+msgid "Compatible with your version of WordPress"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:144
+msgid "Product by WebHunt Infotech"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:151
+msgid "Grids and Effect Settings"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:155
+msgid "Grid Layout"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:161
+msgid "Dynamic (Avaliable in PRO Version)"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:162
+msgid "Masonry (Avaliable in PRO Version)"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:163
+msgid "Infinite (Avaliable in PRO Version)"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:172
+msgid "Grid Orientation"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:177
+msgid "Vertical"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:181
+msgid "Horizontal"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:188
+msgid "Thumbnail Styles"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:193
+msgid "Animtext"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:194
+msgid "Curtain Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:195
+msgid "Move text Effect(Avaliable in PRO Version)"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:196
+msgid "Scale text Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:197
+msgid "Scale Text Inverse (Avaliable in PRO Version)"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:198
+msgid "Media (Avaliable in PRO Version)"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:199
+msgid "Media 2 (Avaliable in PRO Version)"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:200
+msgid "and More..."
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:209
+msgid "Container Dimension"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:212
+msgid "Max Width"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:219
+msgid "Max Height"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:226
+msgid ""
+"Max width and Height of Container Dimension, for more detail <a href="
+"\"https://www.webhuntinfotech.com/ultimate-gallery-master-lite-documentation/"
+"#container_dimension\" target=\"_blank\">click here</a>"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:231
+msgid "Gallery Font Style"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:236
+msgid "Arial"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:237
+msgid "Arial Black"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:238
+msgid "Comic Sans MS"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:239
+msgid "Courier New"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:240
+msgid "Georgia"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:241
+msgid "Grande"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:242
+msgid "Helvetica Neue"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:243
+msgid "Impact"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:244
+msgid "Lucida"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:245
+msgid "Lucida Grande"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:246
+msgid "Palatino"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:247
+msgid "Sans"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:248
+msgid "Sans-Serif"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:249
+msgid "Tahoma"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:250
+msgid "Times New Roman"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:251
+msgid "Trebuchet MS"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:252
+msgid "Verdana"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:261
+msgid "Open External Link"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:266
+msgid "On Same Tab"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:270
+msgid "On New Tab"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:278
+msgid "Image Thumbnail Settings"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:282
+msgid "Disable Hover Effect"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:287
+#: ultimate-gallery-master-lite-settings.php:363
+#: ultimate-gallery-master-lite-settings.php:396
+#: ultimate-gallery-master-lite-settings.php:431
+#: ultimate-gallery-master-lite-settings.php:471
+#: ultimate-gallery-master-lite-settings.php:526
+#: ultimate-gallery-master-lite-settings.php:542
+#: ultimate-gallery-master-lite-settings.php:558
+msgid "Yes"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:291
+#: ultimate-gallery-master-lite-settings.php:368
+#: ultimate-gallery-master-lite-settings.php:400
+#: ultimate-gallery-master-lite-settings.php:435
+#: ultimate-gallery-master-lite-settings.php:475
+#: ultimate-gallery-master-lite-settings.php:530
+#: ultimate-gallery-master-lite-settings.php:546
+#: ultimate-gallery-master-lite-settings.php:562
+msgid "No"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:298
+msgid "Image Hover Color"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:303
+#: ultimate-gallery-master-lite-settings.php:447
+msgid "Sky Blue"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:307
+#: ultimate-gallery-master-lite-settings.php:451
+msgid "Red"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:311
+#: ultimate-gallery-master-lite-settings.php:351
+#: ultimate-gallery-master-lite-settings.php:455
+msgid "Black"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:319
+msgid "Image Hover Color Opacity"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:342
+msgid "Image Overlay Text Color"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:347
+msgid "White"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:358
+msgid "Show Icon Button"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:375
+msgid "Icon Style"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:380
+msgid "Light Color"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:384
+msgid "Dark Color"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:391
+msgid "Show Image Border"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:407
+msgid "Space Between Images"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:410
+msgid "Space Range:"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:411
+msgid "px"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:426
+msgid "Show TopBar"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:442
+msgid "TopBar Background Color"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:459
+msgid "Transparent"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:466
+msgid "Show Search Box"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:482
+msgid "Search Box Position"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:498
+msgid "Search Box Label"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:507
+msgid "Search Not Found Text"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:517
+msgid "Light Box Settings"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:553
+msgid "Show Desc. By Default"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:570
+#: ultimate-gallery-master-lite-settings.php:574
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:579
+msgid "Note"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:579
+msgid "Please do not use"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:579
+msgid "Style"
+msgstr ""
+
+#: ultimate-gallery-master-lite-settings.php:579
+msgid " tag with Custom CSS"
+msgstr ""
+
+#: ultimate-gallery-master-lite-shortcode.php:9
+#, php-format
+msgid "Gallery with ID %s doesn't exist."
+msgstr ""
+
+#: ultimate-gallery-master-lite-shortcode.php:14
+#, php-format
+msgid "Gallery with ID %s is empty."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:104 ultimate-gallery-master-lite.php:105
+#: ultimate-gallery-master-lite.php:116
+msgid "Ultimate Gallery Master"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:106 ultimate-gallery-master-lite.php:107
+msgid "Add New Gallery"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:108
+msgid "Edit Gallery"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:109
+msgid "New Gallery"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:110
+msgid "View Gallery"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:111
+msgid "Search Gallery"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:112 ultimate-gallery-master-lite.php:600
+msgid "No Gallery found"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:113
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:114
+msgid "Parent Gallery:"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:115 ultimate-gallery-master-lite.php:173
+msgid "All Galleries"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:141 ultimate-gallery-master-lite.php:142
+msgid "General Settings"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:150 ultimate-gallery-master-lite.php:151
+msgid "Recommendation"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:174
+msgid "Number of Images"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:175
+msgid "Gallery Shortcodes"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:176
+msgid "Date"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:206
+msgid "Add Images"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:207
+msgid "Apply Setting On Gallery"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:208
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:211
+msgid "Show us some love, Rate Us"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:214
+msgid "Pro Feature List"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:214
+msgid "Pro Features List"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:220
+msgid "Please Review & Rate Us On WordPress"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:226
+msgid "RATE US"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:234
+msgid "100% Responsive Design."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:235
+msgid "Four grid layouts (dynamic, masonry, classic and infinite)."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:236
+msgid "Vertical and horizontal variation."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:237
+msgid ""
+"Full multimedia support (image, youtube, vimeo, self hosted video, youku "
+"video, audio, flash file, iframe, google maps, external link)."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:238
+msgid "More than 150 Presets (thumbnail display styles) included."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:239
+msgid "Multiple shortcode on page or post."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:240
+msgid "Unique settings for each gallery."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:241
+msgid "Runs on all major browsers."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:242
+msgid "Super easy to use for beginners."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:243
+msgid "All-purpose usage."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:244
+msgid "Quick and easy setup."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:245
+msgid "SEO optimized."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:246
+msgid "Mobile optimized."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:247
+msgid "Single or multiple categories selection."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:248
+msgid "Filterable categories."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:249
+msgid "Optional menu."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:250
+msgid "Two menu types list or dropbox."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:251
+msgid "Customizable menu position with variation based on layout."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:252
+msgid "Optional search box."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:253
+msgid "Optional lazy loading with load more button or scroll."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:254
+msgid "Multiple thumbnails hide / show animation types."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:255
+msgid "Thumbnails multimedia icons."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:256
+msgid "Adjustable thumbnails number to display / load per set."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:257
+msgid "Adjustable thumbnail spacings / size and much more."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:258
+msgid "Adjustable thumbnail geometry and styling."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:259
+msgid "Light Box View."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:260
+msgid "Two lightbox screen (classic and modern)."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:261
+msgid "Unlimited color scheme."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:262
+msgid "Social networks sharing."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:263
+msgid "500+ Google Fonts."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:264
+msgid "Custom CSS Option."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:265
+msgid "Translation ready."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:266
+msgid "Updates and support."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:267
+msgid "Extensive documentation."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:268
+msgid "And many more.."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:281
+msgid "View Live Demo (PRO)"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:282
+msgid "Upgrade To PRO"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:283
+msgid "Documention ( Lite )"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:287
+msgid "Tips"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:287
+msgid ""
+"Upload all gallery images using Add New Image button. Do not use/add pre-"
+"uploaded images which are uploaded previously using Media/Post/Page. Minimum "
+"Dimensions for Upload Image is 400*400."
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:316 ultimate-gallery-master-lite.php:401
+msgid "Display Type"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:319 ultimate-gallery-master-lite.php:404
+msgid "Image"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:321 ultimate-gallery-master-lite.php:405
+msgid "Youtube/Vimeo video"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:323 ultimate-gallery-master-lite.php:406
+msgid "External Link"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:325
+msgid "Uploaded Video (In PRO)"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:326
+msgid "Audio (In PRO)"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:327
+msgid "Google Maps (In PRO)"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:328
+msgid "Flash (In PRO)"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:329
+msgid "IFRAME (In PRO)"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:341 ultimate-gallery-master-lite.php:417
+msgid "Image Title"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:345 ultimate-gallery-master-lite.php:421
+msgid "Description"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:349 ultimate-gallery-master-lite.php:425
+msgid "Video/Link URL"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:353
+msgid "Extra Button url"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:371
+msgid "Add New Media"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:385
+msgid "Use below shortcode in any Page/Post to publish your gallery"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:429
+msgid "Extra Button URL"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:560 ultimate-gallery-master-lite.php:561
+msgid "Select Gallery to insert into post or page"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:564
+msgid "Ultimate Shortcodes"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:582
+msgid "Select Any Gallery to Insert Into Post or page"
+msgstr ""
+
+#: ultimate-gallery-master-lite.php:597
+msgid "Insert Gallery Shortcode"
+msgstr ""

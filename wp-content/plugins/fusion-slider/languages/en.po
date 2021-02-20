@@ -1,0 +1,829 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fusion Slider\n"
+"POT-Creation-Date: 2020-01-17 14:13+0530\n"
+"PO-Revision-Date: 2020-01-17 14:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: fusion-slider-short-code.php:9
+#, php-format
+msgid "Slider with ID %s doesn't exist."
+msgstr ""
+
+#: fusion-slider-short-code.php:14
+#, php-format
+msgid "Slider with ID %s is empty."
+msgstr ""
+
+#: fusion-slider.php:99
+msgid "Settings"
+msgstr ""
+
+#: fusion-slider.php:101
+msgid "Support"
+msgstr ""
+
+#: fusion-slider.php:102
+msgid "Rate the plugin ★★★★★"
+msgstr ""
+
+#: fusion-slider.php:134 fusion-slider.php:135 fusion-slider.php:146
+msgid "Universal Slider"
+msgstr ""
+
+#: fusion-slider.php:136 fusion-slider.php:137
+msgid "Add New Slider"
+msgstr ""
+
+#: fusion-slider.php:138
+msgid "Edit Slider"
+msgstr ""
+
+#: fusion-slider.php:139
+msgid "New Slider"
+msgstr ""
+
+#: fusion-slider.php:140
+msgid "View Slider"
+msgstr ""
+
+#: fusion-slider.php:141
+msgid "Search Slider"
+msgstr ""
+
+#: fusion-slider.php:142 fusion-slider.php:643
+msgid "No Slider found"
+msgstr ""
+
+#: fusion-slider.php:143
+msgid "No Slider found in Trash"
+msgstr ""
+
+#: fusion-slider.php:144
+msgid "Parent Slider:"
+msgstr ""
+
+#: fusion-slider.php:145 fusion-slider.php:209
+msgid "All Sliders"
+msgstr ""
+
+#: fusion-slider.php:176 fusion-slider.php:177
+msgid "Need Help?"
+msgstr ""
+
+#: fusion-slider.php:185 fusion-slider.php:186
+msgid "Recommendation"
+msgstr ""
+
+#: fusion-slider.php:210 fusion-slider.php:342
+msgid "Slider Images"
+msgstr ""
+
+#: fusion-slider.php:211
+msgid "Slider Shortcodes"
+msgstr ""
+
+#: fusion-slider.php:212
+msgid "Date"
+msgstr ""
+
+#: fusion-slider.php:233
+msgid "Add Slider Images"
+msgstr ""
+
+#: fusion-slider.php:234
+msgid "Apply Setting on Slider"
+msgstr ""
+
+#: fusion-slider.php:234
+msgid "Apply Setting On Slider"
+msgstr ""
+
+#: fusion-slider.php:235
+msgid "Slider Shortcode"
+msgstr ""
+
+#: fusion-slider.php:238
+msgid "Show us some love, Rate Us"
+msgstr ""
+
+#: fusion-slider.php:240
+msgid "Plugin Support"
+msgstr ""
+
+#: fusion-slider.php:243
+msgid "PRO Features List"
+msgstr ""
+
+#: fusion-slider.php:249
+msgid "Please Review & Rate Us On WordPress"
+msgstr ""
+
+#: fusion-slider.php:255
+msgid "RATE US"
+msgstr ""
+
+#: fusion-slider.php:262 fusion-slider.php:330
+msgid "Documention (Lite)"
+msgstr ""
+
+#: fusion-slider.php:265
+msgid "Support Fourm (Lite)"
+msgstr ""
+
+#: fusion-slider.php:273
+msgid "100% Responsive Design."
+msgstr ""
+
+#: fusion-slider.php:274
+msgid "7 Type of sliders."
+msgstr ""
+
+#: fusion-slider.php:275
+msgid "Slider Effects."
+msgstr ""
+
+#: fusion-slider.php:276
+msgid "Video Slider."
+msgstr ""
+
+#: fusion-slider.php:277
+msgid "Flex Slider One & Two."
+msgstr ""
+
+#: fusion-slider.php:278
+msgid "Jssor Image Slider."
+msgstr ""
+
+#: fusion-slider.php:279
+msgid "Carousel Slider."
+msgstr ""
+
+#: fusion-slider.php:280
+msgid "Elastic Slider."
+msgstr ""
+
+#: fusion-slider.php:281
+msgid "Nivo Slider."
+msgstr ""
+
+#: fusion-slider.php:282
+msgid "Responsive Slider."
+msgstr ""
+
+#: fusion-slider.php:283
+msgid "Easing Effects."
+msgstr ""
+
+#: fusion-slider.php:284
+msgid "Multiple Image Uploader."
+msgstr ""
+
+#: fusion-slider.php:285
+msgid "Drag and Drop image Position."
+msgstr ""
+
+#: fusion-slider.php:286
+msgid "All Slider Shortcode & Unique Settings."
+msgstr ""
+
+#: fusion-slider.php:287
+msgid "100% Width Option."
+msgstr ""
+
+#: fusion-slider.php:288
+msgid "Customize Width and Height."
+msgstr ""
+
+#: fusion-slider.php:289
+msgid "Custom Color Option."
+msgstr ""
+
+#: fusion-slider.php:290
+msgid "Font Typography Option."
+msgstr ""
+
+#: fusion-slider.php:291
+msgid "Button Option in Flex Slider One."
+msgstr ""
+
+#: fusion-slider.php:292
+msgid "Feature Options."
+msgstr ""
+
+#: fusion-slider.php:293
+msgid "Enable/Disable Navigation Option."
+msgstr ""
+
+#: fusion-slider.php:294
+msgid "Custom CSS Option."
+msgstr ""
+
+#: fusion-slider.php:295
+msgid "Extensive Documentation."
+msgstr ""
+
+#: fusion-slider.php:296
+msgid "And many more.."
+msgstr ""
+
+#: fusion-slider.php:309
+msgid "Shortcode"
+msgstr ""
+
+#: fusion-slider.php:310
+msgid "PHP File"
+msgstr ""
+
+#: fusion-slider.php:313
+msgid "Copy and paste the shortcode directly into any WordPress post or page"
+msgstr ""
+
+#: fusion-slider.php:317
+msgid ""
+"Copy and paste this code into a PHP file to include the slideshow within "
+"your theme"
+msgstr ""
+
+#: fusion-slider.php:331
+msgid "View Live Demo (PRO)"
+msgstr ""
+
+#: fusion-slider.php:332
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: fusion-slider.php:336
+msgid "Tips"
+msgstr ""
+
+#: fusion-slider.php:336
+msgid ""
+"Upload all slider images using \"Add Slides\" button. Do not use/add pre-"
+"uploaded images which are uploaded previously using Media/Post/Page. Minimum "
+"Dimensions for Upload Image is 1280*720."
+msgstr ""
+
+#: fusion-slider.php:345
+msgid "Add Slides"
+msgstr ""
+
+#: fusion-slider.php:382 fusion-slider.php:447
+msgid "General"
+msgstr ""
+
+#: fusion-slider.php:383 fusion-slider.php:448
+msgid "SEO"
+msgstr ""
+
+#: fusion-slider.php:390 fusion-slider.php:456
+msgid "Image Title"
+msgstr ""
+
+#: fusion-slider.php:393 fusion-slider.php:458
+msgid "Description"
+msgstr ""
+
+#: fusion-slider.php:397 fusion-slider.php:462
+msgid "Image Alt"
+msgstr ""
+
+#: fusion-slider.php:400 fusion-slider.php:465
+msgid "Slider Link"
+msgstr ""
+
+#: fusion-slider.php:607
+msgid "Select Slider to Insert into Page or Post"
+msgstr ""
+
+#: fusion-slider.php:608
+msgid " FSL Shortcode"
+msgstr ""
+
+#: fusion-slider.php:635
+msgid "Insert Universal Slider Shortcode"
+msgstr ""
+
+#: fusion-slider.php:641
+msgid "Insert Slider Shortcode"
+msgstr ""
+
+#: help-page.php:13
+msgid "Welcome to Universal Slider "
+msgstr ""
+
+#: help-page.php:21
+msgid "What's "
+msgstr ""
+
+#: help-page.php:21
+msgid "New?"
+msgstr ""
+
+#: help-page.php:24
+msgid "NEW!"
+msgstr ""
+
+#: help-page.php:26 help-page.php:55
+msgid "Added"
+msgstr ""
+
+#: help-page.php:26
+msgid "Open slider link in new tab or same tab option added"
+msgstr ""
+
+#: help-page.php:27 help-page.php:28 help-page.php:37 help-page.php:46
+msgid "Fixed"
+msgstr ""
+
+#: help-page.php:27
+msgid "Description text align issue fixed"
+msgstr ""
+
+#: help-page.php:28
+msgid "Default settings manage according to home slider"
+msgstr ""
+
+#: help-page.php:29 help-page.php:38 help-page.php:56
+msgid "Tested"
+msgstr ""
+
+#: help-page.php:29 help-page.php:38 help-page.php:56
+msgid "Tested with WordPress latest version"
+msgstr ""
+
+#: help-page.php:37
+msgid "jQuery issue fixed with the WordPress latest version"
+msgstr ""
+
+#: help-page.php:46
+msgid "Slider Full width issue fixed"
+msgstr ""
+
+#: help-page.php:55
+msgid "Navigation Background Color option added"
+msgstr ""
+
+#: help-page.php:62
+msgid "Watch Tutorial"
+msgstr ""
+
+#: help-page.php:70
+msgid "Loving"
+msgstr ""
+
+#: help-page.php:70
+msgid "Universal Slider?"
+msgstr ""
+
+#: help-page.php:71
+msgid "Thank you for choosing Universal Slider in your WordPress installation."
+msgstr ""
+
+#: help-page.php:72
+msgid ""
+"Do you mind taking a minute to support us by adding a review? Your feedback "
+"is very important to us."
+msgstr ""
+
+#: help-page.php:73
+msgid "Add a Review on WordPress"
+msgstr ""
+
+#: help-page.php:77
+msgid "Need"
+msgstr ""
+
+#: help-page.php:77
+msgid "Help?"
+msgstr ""
+
+#: help-page.php:78
+msgid ""
+"For superior help you can visit plugin documentation page. If you didn't "
+"found your solution there, we have an acting fast support for you. Post your "
+"question in our <b>support forum</b>."
+msgstr ""
+
+#: help-page.php:79
+msgid "Documentation"
+msgstr ""
+
+#: help-page.php:80
+msgid "Support Forum"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:100
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:107
+msgid "Transition and layout Settings"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:111
+msgid "Slider Type"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:116
+msgid "Responsive Slides"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:117
+msgid "Flex Slider One(Avaliable in PRO Version)"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:118
+msgid "Flex Slider Two(Avaliable in PRO Version)"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:119
+msgid "Jssor Image Slider (Avaliable in PRO Version)"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:120
+msgid "Carousel Slider (Avaliable in PRO Version)"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:121
+msgid "Elastic Slider (Avaliable in PRO Version)"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:122
+msgid "Nivo Slider (Avaliable in PRO Version)"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:131
+msgid "Stretch (width)"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:136
+msgid "100% wide output"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:137
+msgid "Uncheck this option to enable custom Slider Width option"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:143
+msgid "Slider Width"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:153
+msgid "Slider Height"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:163
+msgid "Open Link"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:168
+msgid "New Tab"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:172
+msgid "Same Tab"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:180
+msgid "Arrows and Navigation settings"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:184
+msgid "Show Arrows"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:195
+msgid "Arrow Color"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:195
+msgid "Hover"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:200 inc/fusion-slider-settings.php:346
+#: inc/fusion-slider-settings.php:454
+msgid "White"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:204 inc/fusion-slider-settings.php:258
+#: inc/fusion-slider-settings.php:296 inc/fusion-slider-settings.php:350
+#: inc/fusion-slider-settings.php:404 inc/fusion-slider-settings.php:458
+msgid "Red"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:208 inc/fusion-slider-settings.php:300
+#: inc/fusion-slider-settings.php:408
+msgid "Blue"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:215
+msgid "Previous Text"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:224
+msgid "Next Text"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:233
+msgid "Navigation"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:238
+msgid "Hidden"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:242
+msgid "Dots"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:249
+msgid "Navi. Background Color"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:254 inc/fusion-slider-settings.php:292
+#: inc/fusion-slider-settings.php:342 inc/fusion-slider-settings.php:400
+#: inc/fusion-slider-settings.php:450
+msgid "Black"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:266
+msgid "Typography Options"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:270
+msgid "Text Display Style"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:275
+msgid "Style One"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:279
+msgid "Style Two"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:281
+msgid "Note:- With <b>Style Two</b>, Only Slider Description will Work."
+msgstr ""
+
+#: inc/fusion-slider-settings.php:287
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:307
+msgid "Title Font Family"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:312 inc/fusion-slider-settings.php:420
+msgid "Arial"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:313 inc/fusion-slider-settings.php:421
+msgid "Arial Black"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:314 inc/fusion-slider-settings.php:422
+msgid "Bookman Old Style"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:315 inc/fusion-slider-settings.php:423
+msgid "Comic Sans MS"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:316 inc/fusion-slider-settings.php:424
+msgid "Courier"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:317 inc/fusion-slider-settings.php:425
+msgid "Garamond"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:318 inc/fusion-slider-settings.php:426
+msgid "Georgia"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:319 inc/fusion-slider-settings.php:427
+msgid "Impact"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:320 inc/fusion-slider-settings.php:428
+msgid "Lucida Console"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:321 inc/fusion-slider-settings.php:429
+msgid "Lucida Sans Unicode"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:322 inc/fusion-slider-settings.php:430
+msgid "MS Sans Serif"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:323 inc/fusion-slider-settings.php:431
+msgid "MS Serif"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:324 inc/fusion-slider-settings.php:432
+msgid "Palatino Linotype"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:325 inc/fusion-slider-settings.php:433
+msgid "Tahoma"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:326 inc/fusion-slider-settings.php:434
+msgid "Times New Roman"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:327 inc/fusion-slider-settings.php:435
+msgid "Trebuchet MS"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:328 inc/fusion-slider-settings.php:436
+msgid "Verdana"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:337
+msgid "Title Font Color"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:357
+msgid "Title Size & Line Height"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:359
+msgid "Title Font Size"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:366
+msgid "Title Line Height"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:375
+msgid "Title Spacing (Top & Left)"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:377 inc/fusion-slider-settings.php:485
+msgid "Spacing for Top"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:384 inc/fusion-slider-settings.php:492
+msgid "Spacing for Left"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:395
+msgid "Desc. Background Color"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:415
+msgid "Description Font Family"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:445
+msgid "Description Font Color"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:465
+msgid "Desc. Size & Line Height"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:467
+msgid "Description Font Size"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:474
+msgid "Description Line Height"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:483
+msgid "Desc. Spacing (Top & Left)"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:501
+msgid "Text Align"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:506
+msgid "Left"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:510
+msgid "Right"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:514
+msgid "Center"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:522
+msgid "Feature Options"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:527
+msgid "Center Align"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:535
+msgid "Auto Play"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:547
+msgid "Random"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:555
+msgid "Hover Pause"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:567
+msgid "Advanced Settings Options"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:571
+msgid "Slide Delay"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:581
+msgid "Animation Speed"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:592
+msgid "Custom Css Editor"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:596
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:601
+msgid "Note"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:601
+msgid "Please do not use"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:601
+msgid "Style"
+msgstr ""
+
+#: inc/fusion-slider-settings.php:601
+msgid "tag with Custom CSS Editor"
+msgstr ""
+
+#: recommendations.php:54
+#, php-format
+msgid "%s rating"
+msgstr ""
+
+#: recommendations.php:75
+msgid "Get More Free Wordpress Plguins From WebHunt Infotech"
+msgstr ""
+
+#: recommendations.php:128
+msgid "More Details"
+msgstr ""
+
+#: recommendations.php:136
+msgid "Install Now"
+msgstr ""
+
+#: recommendations.php:142
+msgid "Update Now"
+msgstr ""
+
+#: recommendations.php:190 recommendations.php:204 recommendations.php:218
+#: recommendations.php:227 recommendations.php:241 recommendations.php:255
+msgid "Premium Detail Page"
+msgstr ""
+
+#: recommendations.php:195 recommendations.php:209 recommendations.php:232
+#: recommendations.php:246 recommendations.php:260
+msgid "Demo Website"
+msgstr ""
+
+#: recommendations.php:284
+msgid "Last Updated:"
+msgstr ""
+
+#: recommendations.php:295
+msgid "<strong>Untested</strong> with your version of WordPress"
+msgstr ""
+
+#: recommendations.php:297
+msgid "Incompatible with your version of WordPress"
+msgstr ""
+
+#: recommendations.php:299
+msgid "Compatible with your version of WordPress"
+msgstr ""

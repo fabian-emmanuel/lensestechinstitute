@@ -1,0 +1,1126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: social-media-gallery\n"
+"POT-Creation-Date: 2019-11-21 17:59+0530\n"
+"PO-Revision-Date: 2019-11-21 18:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_x;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin-scripts/js/FWDUGP.js:9005
+msgid "BackOut"
+msgstr ""
+
+#: admin-scripts/js/FWDUGP.js:9007
+msgid "BackIn"
+msgstr ""
+
+#: admin-scripts/js/FWDUGP.js:9009
+msgid "BackInOut"
+msgstr ""
+
+#: advance-settings.php:70
+msgid ""
+"These features are available in the Professional version of the plugin only."
+msgstr ""
+
+#: advance-settings.php:72
+msgid "Enable"
+msgstr ""
+
+#: advance-settings.php:75
+msgid "General Options"
+msgstr ""
+
+#: advance-settings.php:76
+msgid "Reset All"
+msgstr ""
+
+#: advance-settings.php:77
+msgid "Save"
+msgstr ""
+
+#: advance-settings.php:84
+msgid "Lightbox Settings"
+msgstr ""
+
+#: advance-settings.php:89
+msgid "Other Settings"
+msgstr ""
+
+#: advance-settings.php:94
+msgid "Pro Gallery Screenshot"
+msgstr ""
+
+#: advance-settings.php:104
+msgid "Lightbox Styles"
+msgstr ""
+
+#: advance-settings.php:108
+msgid "Lightbox Style"
+msgstr ""
+
+#: advance-settings.php:112
+msgid "Choose the style of your lightbox"
+msgstr ""
+
+#: advance-settings.php:117 social-media-gallery-settings.php:109
+msgid "Classic"
+msgstr ""
+
+#: advance-settings.php:118
+msgid "Modern"
+msgstr ""
+
+#: advance-settings.php:122
+msgid "Lightbox Offset Margin"
+msgstr ""
+
+#: advance-settings.php:126
+msgid "Set the margin from top and bottom for the lightbox in pixels."
+msgstr ""
+
+#: advance-settings.php:137 advance-settings.php:411
+msgid "Background Color"
+msgstr ""
+
+#: advance-settings.php:141
+msgid "Choose the lightbox main background color"
+msgstr ""
+
+#: advance-settings.php:148 advance-settings.php:422
+msgid "Background Opacity"
+msgstr ""
+
+#: advance-settings.php:152
+msgid "Set the lightbox main background opacity."
+msgstr ""
+
+#: advance-settings.php:160
+msgid "Border Color"
+msgstr ""
+
+#: advance-settings.php:164
+msgid "Choose the lightbox item border color"
+msgstr ""
+
+#: advance-settings.php:171
+msgid "Lightbox Border Size"
+msgstr ""
+
+#: advance-settings.php:175
+msgid "Set the lightbox item border size in px"
+msgstr ""
+
+#: advance-settings.php:183
+msgid "Lightbox Border Radius"
+msgstr ""
+
+#: advance-settings.php:187
+msgid "Set the lightbox item border radius in px"
+msgstr ""
+
+#: advance-settings.php:198
+msgid "Slideshow"
+msgstr ""
+
+#: advance-settings.php:201
+msgid "Slideshow Auto Start"
+msgstr ""
+
+#: advance-settings.php:205
+msgid "Enable or disable the lightbox slideshow autoplay"
+msgstr ""
+
+#: advance-settings.php:213
+msgid "Video Auto Play"
+msgstr ""
+
+#: advance-settings.php:217
+msgid "Enable or disable video autoplay"
+msgstr ""
+
+#: advance-settings.php:225
+msgid "Video Loop"
+msgstr ""
+
+#: advance-settings.php:229
+msgid "Set the video play in loop (doesn't apply to youtube or vimeo)."
+msgstr ""
+
+#: advance-settings.php:237
+msgid "Audio Auto Play"
+msgstr ""
+
+#: advance-settings.php:241
+msgid "Enable or disable audio autoplay"
+msgstr ""
+
+#: advance-settings.php:249
+msgid "Audio Loop"
+msgstr ""
+
+#: advance-settings.php:253
+msgid "Set the audio play in loop or not"
+msgstr ""
+
+#: advance-settings.php:261
+msgid "Slideshow Interval"
+msgstr ""
+
+#: advance-settings.php:265
+msgid "Set the slideshow duration in seconds."
+msgstr ""
+
+#: advance-settings.php:270
+msgid "In seconds"
+msgstr ""
+
+#: advance-settings.php:276
+msgid "Advanced Options"
+msgstr ""
+
+#: advance-settings.php:279
+msgid "Buttons Alignment"
+msgstr ""
+
+#: advance-settings.php:283
+msgid ""
+"Set to 'In' the buttons will be positioned near the image and set to 'Out' "
+"the buttons will be positioned at the right or left side of the screen"
+msgstr ""
+
+#: advance-settings.php:288
+msgid "In"
+msgstr ""
+
+#: advance-settings.php:289
+msgid "Out"
+msgstr ""
+
+#: advance-settings.php:293
+msgid "Keyboard navigation"
+msgstr ""
+
+#: advance-settings.php:297
+msgid ""
+"Enable or disable the keyboard left and right arrows to navigate between "
+"lightbox items"
+msgstr ""
+
+#: advance-settings.php:305
+msgid "Show Arrows"
+msgstr ""
+
+#: advance-settings.php:309
+msgid "Hide or show the next and prev buttons"
+msgstr ""
+
+#: advance-settings.php:317
+msgid "Show Arrows in Mobile"
+msgstr ""
+
+#: advance-settings.php:321
+msgid "Hide or show the next and prev buttons on mobile"
+msgstr ""
+
+#: advance-settings.php:329
+msgid "Show Close Button"
+msgstr ""
+
+#: advance-settings.php:333
+msgid "Hide or show the close button"
+msgstr ""
+
+#: advance-settings.php:341 social-media-gallery-settings.php:300
+msgid "Show Zoom Button"
+msgstr ""
+
+#: advance-settings.php:345
+msgid "Hide or show the image zoom in and out button"
+msgstr ""
+
+#: advance-settings.php:353
+msgid "Show Slideshow Button"
+msgstr ""
+
+#: advance-settings.php:357
+msgid "Hide or show the slideshow button"
+msgstr ""
+
+#: advance-settings.php:365
+msgid "Show Description Button"
+msgstr ""
+
+#: advance-settings.php:369
+msgid "Hide or show the description button"
+msgstr ""
+
+#: advance-settings.php:379
+msgid "Lightbox Description Window"
+msgstr ""
+
+#: advance-settings.php:383
+msgid "Animation Type"
+msgstr ""
+
+#: advance-settings.php:387
+msgid "Set the animation type of the description window when on show / hide"
+msgstr ""
+
+#: advance-settings.php:392 advance-settings.php:670
+msgid "Opacity"
+msgstr ""
+
+#: advance-settings.php:393
+msgid "Motion"
+msgstr ""
+
+#: advance-settings.php:397
+msgid "Position"
+msgstr ""
+
+#: advance-settings.php:401
+msgid "Set the description window position inside the lightbox item."
+msgstr ""
+
+#: advance-settings.php:406 advance-settings.php:693 advance-settings.php:716
+#: advance-settings.php:733
+msgid "Top"
+msgstr ""
+
+#: advance-settings.php:407 advance-settings.php:699 advance-settings.php:719
+#: advance-settings.php:736
+msgid "Bottom"
+msgstr ""
+
+#: advance-settings.php:415
+msgid "Set the background color of the description window"
+msgstr ""
+
+#: advance-settings.php:426
+msgid "Set the description window background opacity."
+msgstr ""
+
+#: advance-settings.php:433
+msgid "Text Color"
+msgstr ""
+
+#: advance-settings.php:437
+msgid "Set the text color of the description window"
+msgstr ""
+
+#: advance-settings.php:444
+msgid "Description By Default"
+msgstr ""
+
+#: advance-settings.php:448
+msgid "Shows or not the description window by default"
+msgstr ""
+
+#: advance-settings.php:458
+msgid "Button Styles"
+msgstr ""
+
+#: advance-settings.php:461
+msgid "Buttons Hide Delay"
+msgstr ""
+
+#: advance-settings.php:465
+msgid "Set the delay in seconds until the buttons will hide."
+msgstr ""
+
+#: advance-settings.php:472
+msgid "Space Between Buttons"
+msgstr ""
+
+#: advance-settings.php:476
+msgid "Set the space between buttons in px."
+msgstr ""
+
+#: advance-settings.php:484
+msgid "Buttons OffsetIn"
+msgstr ""
+
+#: advance-settings.php:488
+msgid "Set the space between the buttons and the main lightbox item.</p>"
+msgstr ""
+
+#: advance-settings.php:496
+msgid "Buttons OffsetOut"
+msgstr ""
+
+#: advance-settings.php:500
+msgid "Set the space between the buttons and window left or right side."
+msgstr ""
+
+#: advance-settings.php:510 advance-settings.php:513
+msgid "Social Share Buttons"
+msgstr ""
+
+#: advance-settings.php:517
+msgid "Set the width of popup"
+msgstr ""
+
+#: advance-settings.php:525
+msgid "Social Share Buttons List"
+msgstr ""
+
+#: advance-settings.php:529
+msgid "Hide or show the social share button"
+msgstr ""
+
+#: advance-settings.php:537
+msgid "Facebook"
+msgstr ""
+
+#: advance-settings.php:542
+msgid "Twitter"
+msgstr ""
+
+#: advance-settings.php:547
+msgid "Google Plus"
+msgstr ""
+
+#: advance-settings.php:552
+msgid "Pinterest"
+msgstr ""
+
+#: advance-settings.php:559
+msgid "Linkedin"
+msgstr ""
+
+#: advance-settings.php:564
+msgid "Gmail"
+msgstr ""
+
+#: advance-settings.php:583
+msgid "Menu Settings"
+msgstr ""
+
+#: advance-settings.php:586
+msgid "Combobox Selector Label"
+msgstr ""
+
+#: advance-settings.php:589
+msgid "If the menu is combobox set the selector label"
+msgstr ""
+
+#: advance-settings.php:598
+msgid "Search Label"
+msgstr ""
+
+#: advance-settings.php:601
+msgid "Set the search box label"
+msgstr ""
+
+#: advance-settings.php:610
+msgid "Search Not Found Label"
+msgstr ""
+
+#: advance-settings.php:613
+msgid "Set the text display when search item not found"
+msgstr ""
+
+#: advance-settings.php:622
+msgid "Menu Max Width"
+msgstr ""
+
+#: advance-settings.php:625
+msgid "Set maximum menu width."
+msgstr ""
+
+#: advance-settings.php:634
+msgid "Menu Offset Top"
+msgstr ""
+
+#: advance-settings.php:637
+msgid "Set margin top for the menu buttons"
+msgstr ""
+
+#: advance-settings.php:646
+msgid "Menu Offset Bottom"
+msgstr ""
+
+#: advance-settings.php:649
+msgid "Set margin bottom for the menu buttons"
+msgstr ""
+
+#: advance-settings.php:658
+msgid "Thumbnail Effect Settings"
+msgstr ""
+
+#: advance-settings.php:661
+msgid "Text Animation Type"
+msgstr ""
+
+#: advance-settings.php:664
+msgid "Text animation type for Animtext effect"
+msgstr ""
+
+#: advance-settings.php:673
+msgid "Scale"
+msgstr ""
+
+#: advance-settings.php:676
+msgid "Scalerandom"
+msgstr ""
+
+#: advance-settings.php:679
+msgid "Largescale"
+msgstr ""
+
+#: advance-settings.php:684
+msgid "Image Transition Direction"
+msgstr ""
+
+#: advance-settings.php:687
+msgid "This option will work with curtain animation type"
+msgstr ""
+
+#: advance-settings.php:696
+msgid "Right"
+msgstr ""
+
+#: advance-settings.php:702
+msgid "Left"
+msgstr ""
+
+#: advance-settings.php:707
+msgid "Media Effect Text Align"
+msgstr ""
+
+#: advance-settings.php:710 advance-settings.php:727
+msgid "Text vertical align"
+msgstr ""
+
+#: advance-settings.php:724
+msgid "Media 2 Effect Text Align"
+msgstr ""
+
+#: advance-settings.php:742
+msgid "Mouse Settings"
+msgstr ""
+
+#: advance-settings.php:744
+msgid "Mouse Right Click"
+msgstr ""
+
+#: advance-settings.php:747
+msgid "Set action of mouse right click over gallery content"
+msgstr ""
+
+#: advance-settings.php:753
+msgid "Default"
+msgstr ""
+
+#: advance-settings.php:756
+msgid "Disabled"
+msgstr ""
+
+#: advance-settings.php:759
+msgid "Developer"
+msgstr ""
+
+#: advance-settings.php:765
+msgid "Infinite Grid Settings"
+msgstr ""
+
+#: advance-settings.php:767
+msgid "Enable Visited Thumbnails"
+msgstr ""
+
+#: advance-settings.php:770
+msgid "This way user can see which thumbnails content was viewed"
+msgstr ""
+
+#: advance-settings.php:778
+msgid "Add Zoom Support"
+msgstr ""
+
+#: advance-settings.php:781
+msgid ""
+"Enable or disable gallery zoom on desktop machines and pinch & zoom on "
+"mobile devices"
+msgstr ""
+
+#: advance-settings.php:789
+msgid "Drag & Swipe Support"
+msgstr ""
+
+#: advance-settings.php:792
+msgid "Enable or disable drag and swipe for gallery"
+msgstr ""
+
+#: advance-settings.php:804
+msgid "Classic Grid Layout Settings"
+msgstr ""
+
+#: advance-settings.php:811
+msgid "Infinite Grid Layout Settings"
+msgstr ""
+
+#: free-banner.php:8
+msgid "Social Media Gallery Pro"
+msgstr ""
+
+#: free-banner.php:10
+msgid "GO PRO"
+msgstr ""
+
+#: free-banner.php:12
+msgid "Close for now"
+msgstr ""
+
+#: free-banner.php:33
+msgid "Demo"
+msgstr ""
+
+#: free-banner.php:38
+msgid "Review"
+msgstr ""
+
+#: free-banner.php:43 social-media-gallery.php:304 social-media-gallery.php:357
+msgid "Help"
+msgstr ""
+
+#: free-banner.php:48
+msgid "Contact Us"
+msgstr ""
+
+#: free-banner.php:53
+msgid "Forum"
+msgstr ""
+
+#: free-banner.php:66
+msgid "Click \"GO PRO\" to activate all additional customization options."
+msgstr ""
+
+#: social-media-gallery-settings.php:93
+msgid "Product by"
+msgstr ""
+
+#: social-media-gallery-settings.php:100
+msgid "Grid & Effect Settings"
+msgstr ""
+
+#: social-media-gallery-settings.php:104
+msgid "Grid Layout"
+msgstr ""
+
+#: social-media-gallery-settings.php:110
+msgid "Infinite (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:119
+msgid "Thumbnail Styles"
+msgstr ""
+
+#: social-media-gallery-settings.php:124
+msgid "Animated Text Effect"
+msgstr ""
+
+#: social-media-gallery-settings.php:125
+msgid "Curtain Effect"
+msgstr ""
+
+#: social-media-gallery-settings.php:126
+msgid "Move Text Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:127
+msgid "Scale Text Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:128
+msgid "Scale Text Inverse (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:129
+msgid "Media Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:130
+msgid "Media 2  Effect (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery-settings.php:140
+msgid "Image Thumbnail Settings"
+msgstr ""
+
+#: social-media-gallery-settings.php:144
+msgid "Disable Hover Effect"
+msgstr ""
+
+#: social-media-gallery-settings.php:149 social-media-gallery-settings.php:185
+#: social-media-gallery-settings.php:230 social-media-gallery-settings.php:305
+msgid "Yes"
+msgstr ""
+
+#: social-media-gallery-settings.php:153 social-media-gallery-settings.php:189
+#: social-media-gallery-settings.php:234 social-media-gallery-settings.php:309
+msgid "No"
+msgstr ""
+
+#: social-media-gallery-settings.php:160
+msgid "Image Hover Color"
+msgstr ""
+
+#: social-media-gallery-settings.php:165
+msgid "Sky Blue"
+msgstr ""
+
+#: social-media-gallery-settings.php:169
+msgid "Red"
+msgstr ""
+
+#: social-media-gallery-settings.php:173 social-media-gallery-settings.php:286
+msgid "Black"
+msgstr ""
+
+#: social-media-gallery-settings.php:180
+msgid "Show Icon Button"
+msgstr ""
+
+#: social-media-gallery-settings.php:196
+msgid "Icon Style"
+msgstr ""
+
+#: social-media-gallery-settings.php:201
+msgid "Light Color"
+msgstr ""
+
+#: social-media-gallery-settings.php:205
+msgid "Dark Color"
+msgstr ""
+
+#: social-media-gallery-settings.php:212
+msgid "Space Between Thumbnails"
+msgstr ""
+
+#: social-media-gallery-settings.php:215
+msgid "Space Range:"
+msgstr ""
+
+#: social-media-gallery-settings.php:216
+msgid "px"
+msgstr ""
+
+#: social-media-gallery-settings.php:225
+msgid "Thumbnail Border"
+msgstr ""
+
+#: social-media-gallery-settings.php:242
+msgid "Font Settings"
+msgstr ""
+
+#: social-media-gallery-settings.php:247
+msgid "Font Style"
+msgstr ""
+
+#: social-media-gallery-settings.php:252
+msgid "Arial"
+msgstr ""
+
+#: social-media-gallery-settings.php:253
+msgid "Arial Black"
+msgstr ""
+
+#: social-media-gallery-settings.php:254
+msgid "Courier New"
+msgstr ""
+
+#: social-media-gallery-settings.php:255
+msgid "Georgia"
+msgstr ""
+
+#: social-media-gallery-settings.php:256
+msgid "Grande"
+msgstr ""
+
+#: social-media-gallery-settings.php:257
+msgid "Helvetica Neue"
+msgstr ""
+
+#: social-media-gallery-settings.php:258
+msgid "Impact"
+msgstr ""
+
+#: social-media-gallery-settings.php:259
+msgid "Lucida"
+msgstr ""
+
+#: social-media-gallery-settings.php:260
+msgid "Lucida Grande"
+msgstr ""
+
+#: social-media-gallery-settings.php:261
+msgid "OpenSansBold"
+msgstr ""
+
+#: social-media-gallery-settings.php:262
+msgid "Palatino"
+msgstr ""
+
+#: social-media-gallery-settings.php:263
+msgid "Sans"
+msgstr ""
+
+#: social-media-gallery-settings.php:264
+msgid "Sans-Serif"
+msgstr ""
+
+#: social-media-gallery-settings.php:265
+msgid "Tahoma"
+msgstr ""
+
+#: social-media-gallery-settings.php:266
+msgid "Times New Roman"
+msgstr ""
+
+#: social-media-gallery-settings.php:267
+msgid "Trebuchet"
+msgstr ""
+
+#: social-media-gallery-settings.php:268
+msgid "Verdana"
+msgstr ""
+
+#: social-media-gallery-settings.php:277
+msgid "Image hover Text Color"
+msgstr ""
+
+#: social-media-gallery-settings.php:282
+msgid "White"
+msgstr ""
+
+#: social-media-gallery-settings.php:296
+msgid "Light Box Settings"
+msgstr ""
+
+#: social-media-gallery-settings.php:317
+msgid "Custom CSS"
+msgstr ""
+
+#: social-media-gallery-settings.php:321
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: social-media-gallery-settings.php:326
+msgid "Note"
+msgstr ""
+
+#: social-media-gallery-settings.php:326
+msgid "Please Do Not Use"
+msgstr ""
+
+#: social-media-gallery-settings.php:326
+msgid "With Custom CSS Editor"
+msgstr ""
+
+#: social-media-gallery-shortcode.php:8
+#, php-format
+msgid "Gallery with ID %s doesn't exist."
+msgstr ""
+
+#: social-media-gallery-shortcode.php:13
+#, php-format
+msgid "Gallery with ID %s has no album."
+msgstr ""
+
+#: social-media-gallery.php:101 social-media-gallery.php:102
+#: social-media-gallery.php:113
+msgid "Social Media Gallery"
+msgstr ""
+
+#: social-media-gallery.php:103 social-media-gallery.php:104
+msgid "Add New Gallery"
+msgstr ""
+
+#: social-media-gallery.php:105
+msgid "Edit Gallery"
+msgstr ""
+
+#: social-media-gallery.php:106
+msgid "New Gallery"
+msgstr ""
+
+#: social-media-gallery.php:107
+msgid "View Gallery"
+msgstr ""
+
+#: social-media-gallery.php:108
+msgid "Search Gallery"
+msgstr ""
+
+#: social-media-gallery.php:109 social-media-gallery.php:491
+msgid "No Gallery found"
+msgstr ""
+
+#: social-media-gallery.php:110
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: social-media-gallery.php:111
+msgid "Parent Gallery:"
+msgstr ""
+
+#: social-media-gallery.php:112
+msgid "All Galleries"
+msgstr ""
+
+#: social-media-gallery.php:131
+msgid "Social Galleries"
+msgstr ""
+
+#: social-media-gallery.php:132
+msgid "Gallery Shortcodes"
+msgstr ""
+
+#: social-media-gallery.php:133
+msgid "Date"
+msgstr ""
+
+#: social-media-gallery.php:152 social-media-gallery.php:153
+msgid "Advanced Features <span style=\"color:#dab246;\">PRO</span>"
+msgstr ""
+
+#: social-media-gallery.php:168
+msgid "Add Album"
+msgstr ""
+
+#: social-media-gallery.php:169
+msgid "Apply Setting On Album"
+msgstr ""
+
+#: social-media-gallery.php:170
+msgid "Gallery Shortcode"
+msgstr ""
+
+#: social-media-gallery.php:173
+msgid "Show us some love, Rate Us"
+msgstr ""
+
+#: social-media-gallery.php:176
+msgid "Plugin Support"
+msgstr ""
+
+#: social-media-gallery.php:179
+msgid "Pro Features"
+msgstr ""
+
+#: social-media-gallery.php:185
+msgid "Please Review & Rate Us On WordPress"
+msgstr ""
+
+#: social-media-gallery.php:191
+msgid "RATE US"
+msgstr ""
+
+#: social-media-gallery.php:199 social-media-gallery.php:250
+msgid "Documention (Lite)"
+msgstr ""
+
+#: social-media-gallery.php:202
+msgid "Support Fourm (Lite)"
+msgstr ""
+
+#: social-media-gallery.php:211
+msgid ""
+"Support for 3 social networks from which can load and display playlists, "
+"albums, sets and more (Flickr, Youtube, Pinterest)."
+msgstr ""
+
+#: social-media-gallery.php:212
+msgid ""
+"Two grid layouts included with vertical and horizontal variation (classic "
+"and infinite)."
+msgstr ""
+
+#: social-media-gallery.php:213
+msgid "Beautiful hover effects."
+msgstr ""
+
+#: social-media-gallery.php:214
+msgid "Super easy to use for beginners."
+msgstr ""
+
+#: social-media-gallery.php:215
+msgid "Quick and easy setup."
+msgstr ""
+
+#: social-media-gallery.php:216
+msgid "100% responsive design"
+msgstr ""
+
+#: social-media-gallery.php:217
+msgid "Developer friendly."
+msgstr ""
+
+#: social-media-gallery.php:218
+msgid "Mobile optimized."
+msgstr ""
+
+#: social-media-gallery.php:219
+msgid "SEO optimized."
+msgstr ""
+
+#: social-media-gallery.php:220
+msgid "Light Box View."
+msgstr ""
+
+#: social-media-gallery.php:221
+msgid "Two Light box skins included."
+msgstr ""
+
+#: social-media-gallery.php:222
+msgid "Single or multiple categories selection."
+msgstr ""
+
+#: social-media-gallery.php:223
+msgid "Filterable categories."
+msgstr ""
+
+#: social-media-gallery.php:224
+msgid "Total count on categories."
+msgstr ""
+
+#: social-media-gallery.php:225
+msgid "Optional menu."
+msgstr ""
+
+#: social-media-gallery.php:226
+msgid "Customizable menu position with variation based on layout."
+msgstr ""
+
+#: social-media-gallery.php:227
+msgid "Optional search box."
+msgstr ""
+
+#: social-media-gallery.php:228
+msgid "Optional lazy loading with load more button or scroll."
+msgstr ""
+
+#: social-media-gallery.php:229
+msgid "Multiple thumbnails hide / show animation types."
+msgstr ""
+
+#: social-media-gallery.php:230
+msgid "Thumbnails multimedia icons."
+msgstr ""
+
+#: social-media-gallery.php:231
+msgid "Adjustable thumbnails number to display / load per set."
+msgstr ""
+
+#: social-media-gallery.php:232
+msgid "Adjustable thumbnail spacings / size and much more."
+msgstr ""
+
+#: social-media-gallery.php:233
+msgid "Adjustable thumbnail geometry and styling."
+msgstr ""
+
+#: social-media-gallery.php:234
+msgid "Social networks sharing."
+msgstr ""
+
+#: social-media-gallery.php:235
+msgid "500+ Google fonts."
+msgstr ""
+
+#: social-media-gallery.php:236
+msgid "Fully customizable Lightbox."
+msgstr ""
+
+#: social-media-gallery.php:237
+msgid "Custom CSS Option."
+msgstr ""
+
+#: social-media-gallery.php:238
+msgid "Translation ready."
+msgstr ""
+
+#: social-media-gallery.php:239
+msgid "Updates and support."
+msgstr ""
+
+#: social-media-gallery.php:240
+msgid "Extensive documentation."
+msgstr ""
+
+#: social-media-gallery.php:241
+msgid "And many more.."
+msgstr ""
+
+#: social-media-gallery.php:251
+msgid "View Live Demo (Pro)"
+msgstr ""
+
+#: social-media-gallery.php:252
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: social-media-gallery.php:265
+msgid "Album Type"
+msgstr ""
+
+#: social-media-gallery.php:269
+msgid "Flickr Gallery"
+msgstr ""
+
+#: social-media-gallery.php:270
+msgid "Pinterest Gallery (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery.php:271
+msgid "Youtube Gallery (Avaliable in PRO Version)"
+msgstr ""
+
+#: social-media-gallery.php:275
+msgid "Choose Album Type."
+msgstr ""
+
+#: social-media-gallery.php:297 social-media-gallery.php:350
+msgid "Flickr Album Details"
+msgstr ""
+
+#: social-media-gallery.php:300 social-media-gallery.php:353
+msgid "Album Name"
+msgstr ""
+
+#: social-media-gallery.php:304 social-media-gallery.php:357
+msgid "Album Link"
+msgstr ""
+
+#: social-media-gallery.php:323
+msgid "Add New Album"
+msgstr ""
+
+#: social-media-gallery.php:338
+msgid "Copy and paste the shortcode directly into any WordPress Post or Page."
+msgstr ""
+
+#: social-media-gallery.php:450 social-media-gallery.php:451
+msgid "Select Gallery to insert into post"
+msgstr ""
+
+#: social-media-gallery.php:454
+msgid "Get Gallery Shortcode"
+msgstr ""
+
+#: social-media-gallery.php:473
+msgid "Select Any Gallery To Insert Into Post"
+msgstr ""
+
+#: social-media-gallery.php:488
+msgid "Insert Gallery Shortcode"
+msgstr ""

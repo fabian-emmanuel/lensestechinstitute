@@ -1,0 +1,215 @@
+@media only screen and (min-width: 769px) and (max-width: 1024px) { 
+	.newsblog .media {
+		display: block; 
+	}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+.newsblog .media {
+	display: block; 
+}
+.section-title p {
+	padding: 0 60px;
+}
+.navbar-nav {
+	flex-direction: initial;
+}	
+.header .nav li {
+	margin-right: 2px;
+}
+.header .nav li a {
+	font-size: 13px;
+	padding: 18px 12px;
+}
+.hero-area,
+.hero-area .single-slider,
+.hero-area .welcome-text{
+	height:500px;
+}
+.hero-area .welcome-text h1 {
+	font-size: 40px;
+}
+.call-to-action .call-to-main {
+	padding: 0 50px;
+}
+.why-choose .section-title {
+	text-align: left;
+	margin-top: 30px;
+}
+.consultation .t-video {
+	position: relative;
+	width: 100%;
+	height: 500px;
+}
+.consultation .form-area {
+	margin-top: 30px;
+}
+.newsblog .single-news .news-bottom {
+	padding: 15px 10px;
+	width: 70%;
+}
+.newsblog .single-news .btn{
+	display:none;
+}
+.pro-meta.meta {
+	width: 30%;
+}
+}
+   
+@media only screen and (max-width: 767px) {
+
+.newsblog .media {
+	display: block; 
+}
+.main-menu{
+	display:none;
+}
+.mobile-nav {
+	display: block;
+	margin-top: -36px;
+}
+.slicknav_btn {
+	border-radius: 3px;
+	margin-top: ;
+	margin: 8px 0 0 0;
+}
+.slicknav_menu {
+	background: transparent;
+	margin: 0;
+	padding: 0;
+}
+.slicknav_nav {
+	background: #E84C3D;
+	border-radius: 3px;
+}
+.slicknav_nav .slicknav_row i{
+	display:none;
+}
+.slicknav_menu .slicknav_menutxt {
+	text-transform:uppercase;
+	text-shadow: none;
+}
+.section-title h2{
+	font-size:24px;
+}
+.section-title p {
+	padding: 0;
+}
+.project .project-nav li {
+	margin-right: 12px;
+	padding-right: 12px;
+}
+.project .project-nav li::before {
+	left: -12px;
+}
+.navbar-nav {
+	flex-direction: initial;
+}	
+.header {
+	padding: 15px 0;
+}
+.header .logo {
+	padding: 0px;
+}
+.header .nav li {
+	margin-right: 2px;
+}
+.header .nav li a {
+	font-size: 13px;
+	padding: 18px 12px;
+}
+.hero-area,
+.hero-area .single-slider,
+.hero-area .welcome-text{
+	height:450px;
+}
+.hero-area .welcome-text p {
+	padding: 0px;
+}
+.hero-area .welcome-text h1 {
+	font-size: 30px;
+	line-height: 38px;
+}
+.hero-area .welcome-text .btn {
+	padding: 10px 25px;
+	text-transform: capitalize;
+}
+.call-to-action .call-to-main {
+	padding: 0;
+}
+.why-choose .section-title {
+	text-align: left;
+	margin-top: 30px;
+}
+.consultation .t-video {
+	position: relative;
+	width: 100%;
+	height: 500px;
+}
+.consultation .form-area {
+	margin-top: 30px;
+}
+.newsblog .single-news .news-bottom {
+	padding: 20px;
+	width: 100%;
+	position: relative;
+}
+.newsblog .single-news .btn{
+	display:none;
+}
+.about-us .about-content .btn {
+	margin-right: 5px;
+	padding: 10px 22px;
+	text-transform: capitalize;
+}
+.about-us .about-content h3 {
+	font-size: 18px;
+}
+.breadcrumbs {
+	padding: 50px 0;
+}
+.newsblog.single .news-head h1 {
+	font-size: 22px;
+}
+.project.single .project-info .single-info {
+	margin: 0;
+	text-align: left;
+	margin: 0 0 10px;
+}
+.project.single .project-info {
+	padding: 0;
+}
+.newsblog.single .share-social ul,
+.newsblog.single .share-social .title {
+	float: none;
+	text-align: center;
+}
+.error-page .error-inner h1 {
+	font-size: 130px;
+}
+.error-page .error-inner p {
+	padding: 20px 10px;
+	color: #666;
+}
+.hero-area .welcome-text h2 a {
+	font-size: 30px;
+    line-height: 40px;
+}
+.services .single-service h4 {
+    font-size: 18px;
+	}
+.project .project-des h4 {
+    font-size: 20px;
+	}
+.e-table2 .price .amount {
+    font-size: 30px;
+	}
+.newsblog .content h2 {
+	font-size: 20px;
+	}
+.pro-meta.meta {
+	width: 100%;
+}
+}

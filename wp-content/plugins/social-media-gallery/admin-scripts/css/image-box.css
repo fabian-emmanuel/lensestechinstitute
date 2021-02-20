@@ -1,0 +1,241 @@
+.smgl-image-entry {
+	background: #fff;
+	margin-left: 10px;
+	margin-bottom:20px;
+	padding: 10px;
+	width:92%;
+	cursor:move;
+	float:left;
+	box-shadow: 0 0 6px rgba(0,0,0,.7);
+}
+
+#smgl_gallery_thumbs{
+	float:left;
+	width:100%;
+}
+
+.smgl_label{
+	display:inline-block;
+	width:18%;
+	padding-right: 7px;
+}
+
+.smgl_label_text{
+	width:100%;
+	padding:9px;
+}
+
+.smgl-image-entry .image_gallery_remove {
+	display: block;
+	float: right;
+	height: 20px;
+	margin-right: -21px;
+	margin-top: -21px;
+	outline: 0 none;
+	text-indent: 0px;
+	width: 20px;
+}
+
+.add_smgl_new_image{
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:5px;
+	border: 5px dashed #15846E;
+	cursor: pointer;
+	box-shadow: 0 0 0px rgba(0,0,0,.7);	
+	background: #fff;
+	margin: 0px 1px 20px 0px;
+	width:95%;
+	float:left;
+}
+
+.add_smgl_new_image p{
+	font-size:16px;
+	font-weight:bolder;
+}
+
+.add_smgl_new_image:hover{
+	border: 5px dashed #15846E;
+	background:#15846E;
+}
+
+.add_smgl_new_image:hover p{
+	color:#ffffff;
+	font-size:16px;
+}
+
+.add_smgl_new_image:hover .dashicons{
+	background: none repeat scroll 0 0 #ffffff;
+	color:#15846E;
+}
+.add_smgl_new_image .dashicons{
+	background: none repeat scroll 0 0 rgba(153, 153, 153, 0.1);
+	border-radius: 50%;
+	color: #15846E;
+	content: "?";
+	display: inline-block;
+	font: 400 74px/115px ;
+	height: 100px;
+	font-size:80px;
+	padding: 0;
+	line-height:110px;
+	text-align: center;
+	text-indent: -4px;
+	text-shadow: none;
+	top: 30%;
+	vertical-align: middle;
+	width: 100px;
+	z-index: 4;
+}
+
+.smgl-admin-inner-div1{
+	display:inline-block;
+	width: 100%;
+	padding-left:2px;
+	float: left;
+}
+
+#SMGL_delete_all_button{
+	margin-top:10px;
+}
+@media (max-width:1200px) {
+	.smgl-image-entry {
+		width:95%;
+	}
+}
+@media (max-width:766px){
+	.smgl-image-entry {
+		background: #fff;
+		margin: 0 15px 15px 0;
+		padding: 10px;
+		width:95%;
+		cursor:move;
+		float:left;
+		box-shadow: 0 0 6px rgba(0,0,0,.7);
+	}
+}
+
+@media (max-width:460px){
+	.smgl-image-entry {
+		background: #fff;
+		margin: 0 15px 15px 0;
+		padding: 10px;
+		width:95%;
+		cursor:move;
+		float:left;
+		box-shadow: 0 0 6px rgba(0,0,0,.7);
+	}
+}
+
+/* Button css in gallery settings  */
+.btn-web {
+    position: relative;
+	width:130px;
+    padding: 10px 40px;
+    margin: 0px 10px 10px 0px;
+    float: none;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;  
+    
+    /* Animation */
+    transition: all 0.1s;
+    -webkit-transition: all 0.1s;
+}
+
+.button-1{
+	background-color: #15842F;
+    border-bottom: 5px solid #106e27;
+    text-shadow: 0px -2px #106e27;
+}
+
+.button-2{
+	background-color: #1F77B2;
+    border-bottom: 5px solid #1e5b82;
+    text-shadow: 0px -2px #2980B9;
+}
+
+.button-3{
+	background-color: #CA6B12;
+    border-bottom: 5px solid #85460c;
+    text-shadow: 0px -1px #85460c;
+}
+
+.button-4{
+	background-color: #df1414;
+    border-bottom: 5px solid #840d0d;
+    text-shadow: 0px -2px #840d0d;
+}
+
+.btn-web:hover, 
+.btn-web:focus {
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-web:active {
+    transform: translate(0px,5px);
+    -webkit-transform: translate(0px,5px);
+    border-bottom: 1px solid;
+}
+
+/* Rate Us CSS */
+.imgStar{
+	width:180px;
+	height:33px;
+	background: url('../img/5-star-review-logo.jpg') no-repeat;
+	background-size: 180px 33px;
+}
+.imgStar:hover {
+	width:180px;
+	height:33px;
+	background: url('../img/5-star-review-logo-golden.jpg') no-repeat;
+	background-size: 180px 33px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #737373;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #737373;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #737373;
+}
+
+table.smgl-album{
+	background-color:#15846E; 
+	margin-bottom:10px;
+}
+
+table.smgl-album th{
+	padding-left:10px; 
+	color:#ffffff; 
+	width:20%;
+}
+
+table.smgl-album td select{
+	padding-left:10px; 
+	width:60%;
+}
+
+/* remove */
+.smgl-admin-inner-div1 .smgl-container{
+	background-color: #15846E!important;
+    padding: 0.01em 10px;
+}
+.smgl-admin-inner-div1 .smgl-container h2{
+    color: #fff;
+	padding: 8px 10px !important;
+}
+
+.smgl-admin-inner-div1 p{
+	padding: 0px 5px;
+}
+.smgl-admin-inner-div1 .smgl_label{
+	padding: 0px 0px 2px 4px;
+}
